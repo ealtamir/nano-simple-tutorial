@@ -1,0 +1,4 @@
+jupyterlab
+nanolib
+requests
+ed25519_blake2b
