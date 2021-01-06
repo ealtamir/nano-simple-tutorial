@@ -8,7 +8,7 @@ It is assumed that the reader has a basic understanding of:
 - Cryptocurrencies in general
 
 ## Installation
-The only requirement is a Python interpreter of version 3.7 and the PIP package manager for Python.
+The only requirement is a Python interpreter of version 3.7 or great and the PIP package manager for Python.
 
 ```
 pip install -r requirements.txt
