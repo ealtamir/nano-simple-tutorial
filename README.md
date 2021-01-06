@@ -1,4 +1,4 @@
-# Nano (cryptocurrency) for dummies
+# Nano (cryptocurrency) Simple Tutorial
 A tutorial for beginners to Nano or any cryptocurrency. It is meant to complement the [official Nano documentation](https://docs.nano.org/integration-guides/the-basics/). After reading this tutorial you will have a basic understanding of how to create and manage a Nano account using basic Python code.
 
 It is assumed that the reader has a basic understanding of:
